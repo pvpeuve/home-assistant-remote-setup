@@ -2,3 +2,4 @@
 *.yaml linguist-language=YAML
 *.md linguist-language=Markdown
 *.conf linguist-language=Nginx
+README.md linguist-detectable=false
