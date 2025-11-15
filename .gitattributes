@@ -1,0 +1,4 @@
+*.yml linguist-language=YAML
+*.yaml linguist-language=YAML
+*.md linguist-language=Markdown
+*.conf linguist-language=Nginx
